@@ -82,7 +82,7 @@ def submit_symptoms():
 
 CORS(app)
 
-NEWS_API_KEY = 'd8c07d61de1c4cec8b30bcd9175fd65c'
+NEWS_API_KEY = '**************************************'
 
 def get_fallback_news():
     return {
